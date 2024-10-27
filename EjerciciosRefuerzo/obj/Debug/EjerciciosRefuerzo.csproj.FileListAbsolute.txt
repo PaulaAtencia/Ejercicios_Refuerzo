@@ -1,0 +1,7 @@
+C:\Users\Mario\source\repos\EjerciciosRefuerzo\EjerciciosRefuerzo\bin\Debug\EjerciciosRefuerzo.exe.config
+C:\Users\Mario\source\repos\EjerciciosRefuerzo\EjerciciosRefuerzo\bin\Debug\EjerciciosRefuerzo.exe
+C:\Users\Mario\source\repos\EjerciciosRefuerzo\EjerciciosRefuerzo\bin\Debug\EjerciciosRefuerzo.pdb
+C:\Users\Mario\source\repos\EjerciciosRefuerzo\EjerciciosRefuerzo\obj\Debug\EjerciciosRefuerzo.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\EjerciciosRefuerzo\EjerciciosRefuerzo\obj\Debug\EjerciciosRefuerzo.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\EjerciciosRefuerzo\EjerciciosRefuerzo\obj\Debug\EjerciciosRefuerzo.exe
+C:\Users\Mario\source\repos\EjerciciosRefuerzo\EjerciciosRefuerzo\obj\Debug\EjerciciosRefuerzo.pdb
